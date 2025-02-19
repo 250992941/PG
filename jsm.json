@@ -2,7 +2,7 @@
 	"spider":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/pg.jar",
 	"sites":[
 		{
-			"key": "STEVEN TVBOX",
+			"key": "豆瓣",
 			"name": "🌈Steven TV┃接口来自网络，请于24小时内删除本测试内容",
 			"type": 3,
 			"api": "csp_Douban",
