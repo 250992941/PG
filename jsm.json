@@ -9,18 +9,18 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "./lib/tokenm.json$$$./lib/douban.json"
+			"ext": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json$$$https://gitea.moe/STLHF/PG/raw/branch/main/lib/douban.json"
 		},
 		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
 			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
+				"token":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json",
+				"json":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
 				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
 				"proxy":"noproxy",
-				"douban":"./lib/douban.json",
+				"douban":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/douban.json",
 				"danmu":true
 			},
 			"style": {
@@ -38,8 +38,8 @@
 			"changeable": 0,
 			"timeout": 120,
 			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/youtube.json",
+				"token":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json",
+				"json":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
@@ -148,8 +148,8 @@
 		},
 		{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
 			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
+				"token":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json",
+				"json":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -164,8 +164,8 @@
 		},
 		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
 			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
+				"token":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json",
+				"json":"https://gitea.moe/STLHF/PG/raw/branch/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -195,7 +195,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+			"ext": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://gitea.moe/STLHF/PG/raw/branch/main/lib/wogg.json$$$ZHIZHEN"
 		},
 		{"key":"Guazi","name":"瓜子|App","type":3,"api":"csp_Guazi","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":""},
 		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"},
@@ -226,7 +226,7 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"timeout":60,
-			"ext": "./lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
+			"ext": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
 		},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
@@ -297,7 +297,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+			"ext": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
 			"key": "NanGua",
@@ -658,8 +658,8 @@
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
 			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "./lib/feimaolive.json"
+			"api": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/live2vod.js",
+			"ext": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/feimaolive.json"
 		}
 	],
 		"lives":[
@@ -829,7 +829,7 @@
 			{
 				"name": "YTB直播",
 				"type": 0,
-				"url": "./lib/ytblive.m3u",
+				"url": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/ytblive.m3u",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -879,7 +879,7 @@
 				"name": "YTLive",
 				"type": 0,
 				
-				"url": "./lib/yo21.txt"
+				"url": "https://gitea.moe/STLHF/PG/raw/branch/main/lib/yo21.txt"
 			},
 			{
 				"group":"redirect",
