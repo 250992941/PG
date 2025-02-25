@@ -13,8 +13,8 @@
 		},
 		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
 			"ext":{
-				"token":"./lib/tokentemplate.json",
-				"json":"./lib/tgsearch.json",
+				"token":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/lib/tokentemplate.json",
+				"json":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -38,8 +38,8 @@
 			"changeable": 0,
 			"timeout": 120,
 			"ext":{
-				"token":"./lib/tokentemplate.json",
-				"json":"./lib/youtube.json",
+				"token":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/lib/tokentemplate.json",
+				"json":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
