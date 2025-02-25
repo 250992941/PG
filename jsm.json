@@ -1,5 +1,5 @@
 {
-	"spider":"https://raw.gitmirror.com/250992941/PG/refs/heads/main/pg.jar",
+	"spider":"http://127.0.0.1:10079/c/3600/proxy/https://github.com/250992941/PG/blob/main/pg.jar",
 	"sites":[
 		{
 			"key": "Steven TVBOX",
