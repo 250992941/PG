@@ -2,8 +2,8 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{
-			"key": "豆瓣",
-			"name": "豆瓣",
+			"key": "Steven TVBOX",
+			"name": "🌈Steven TV┃接口来自网络，请于24小时内删除本测试内容",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -664,7 +664,7 @@
 	],
 		"lives":[
 			{
-				"name": "最强国内直播(合并版)",
+				"name": "PG国内直播(合并版)",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
 				"ua": "okhttp/3.15",
@@ -676,7 +676,7 @@
 				}
 			},
 			{
-				"name": "最强国内直播",
+				"name": "PG国内直播",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
@@ -688,7 +688,7 @@
 				}
 			},
 			{
-				"name": "最强国内直播(-1天回看)",
+				"name": "PG国内直播(-1天回看)",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
 				"ua": "okhttp/3.15",
@@ -708,63 +708,63 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u",
+				"name": "Alice TV-fork",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://raw.gitmirror.com/250992941/TV/refs/heads/master/output/s1.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-1天回看)",
+				"name": "Alice TV-STJX",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://raw.gitmirror.com/lhf0554/jx/refs/heads/master/output/result.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-2天回看)",
+				"name": "Alice ST1",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/st1.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE2SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-3天回看)",
+				"name": "DIYP TV",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "http://iptv.diyp.site/diyp.php",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE3SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-4天回看)",
+				"name": "港澳台频道",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://raw.gitmirror.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE4SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-5天回看)",
+				"name": "V12",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "http://8.138.7.223/v12.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE5SUB",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-6天回看)",
+				"name": "KWCOPY",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE6SUB",
