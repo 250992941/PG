@@ -871,7 +871,7 @@
 			{
 				"name": "WebTV",
 				"type": 0,
-				"url": "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/webtv.txt",
+				"url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/webtv.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
