@@ -828,17 +828,17 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "YTB直播",
+				"name": "新世界 电视家",
 				"type": 0,
-				"url": "https://raw.gitmirror.com/250992941/PG/refs/heads/main/lib/ytblive.m3u",
+				"url": "https://cccimg.com/down.php/48475548df6d15011fbfa92e12851cc3.txt&xsjcm",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "AKTV.电视直播",
+				"name": "Cat 影视直播",
 				"type": 0,
-				"url": "http://aktv.top/live.m3u",
+				"url": "assets://libp2p.so",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
