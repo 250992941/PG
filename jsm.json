@@ -828,7 +828,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "新世界 电视家",
+				"name": "新世界 电视家4.0",
 				"type": 0,
 				"url": "https://cccimg.com/down.php/48475548df6d15011fbfa92e12851cc3.txt&xsjcm",
 				"ua": "okhttp/3.15",
@@ -836,9 +836,9 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "Cat 影视直播",
+				"name": "新世界 电视家高级",
 				"type": 0,
-				"url": "assets://libp2p.so",
+				"url": "https://raw.gitmirror.com/357546/tv/refs/heads/main/yylive4545.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
